@@ -1,0 +1,68 @@
+Current state of the cube:
+ 
+Layer: foreground
+white_green_orange, white_orange, white_orange_blue, 
+white_green, white, white_blue, 
+white_red_green, white_red, white_blue_red, 
+
+
+Layer: middle
+green_orange, orange, orange_blue, 
+green, center, blue, 
+green_red, red, blue_red, 
+
+
+Layer: background
+yellow_orange_green, orange_yellow, orange_yellow_blue, 
+green_yellow, yellow, blue_yellow, 
+green_red_yellow, red_yellow, blue_red_yellow, 
+
+
+Would you like to rotate the cube? use: 'f cw', 'f ccw', 'r cw', 'r ccw', or 'q' to quit: f ccw
+New state of the cube after rotation:
+ 
+Current state of the cube:
+ 
+Layer: foreground
+white_orange_blue, white_blue, white_blue_red, 
+white_orange, white, white_red, 
+white_green_orange, white_green, white_red_green, 
+
+
+Layer: middle
+green_orange, orange, orange_blue, 
+green, center, blue, 
+green_red, red, blue_red, 
+
+
+Layer: background
+yellow_orange_green, orange_yellow, orange_yellow_blue, 
+green_yellow, yellow, blue_yellow, 
+green_red_yellow, red_yellow, blue_red_yellow, 
+
+
+Would you like to rotate the cube? use: 'f cw', 'f ccw', 'r cw', 'r ccw', or 'q' to quit: r ccw
+New state of the cube after rotation:
+ 
+Current state of the cube:
+ 
+Layer: foreground
+white_orange_blue, white_blue, orange_yellow_blue, 
+white_orange, white, orange_blue, 
+white_green_orange, white_green, white_blue_red, 
+
+
+Layer: middle
+green_orange, orange, blue_yellow, 
+green, center, blue, 
+green_red, red, white_red, 
+
+
+Layer: background
+yellow_orange_green, orange_yellow, blue_red_yellow, 
+green_yellow, yellow, blue_red, 
+green_red_yellow, red_yellow, white_red_green, 
+
+
+Would you like to rotate the cube? use: 'f cw', 'f ccw', 'r cw', 'r ccw', or 'q' to quit:  
+q
